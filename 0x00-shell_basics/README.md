@@ -1,1 +1,1 @@
-another scriot showing where i am
+Display the contents list of your current directory
